@@ -1,3 +1,5 @@
+# 💫 About Me:
+I am João Costa, 22 years old, and live in Amarante.<br>Throughout my life, I have tried to participate in various activities that allowed me to develop my skills, critical spirit, cooperation, and mutual assistance. In this way, I participated:<br>- in several mental calculation SuperTmatik championships at the national level;<br>- in the English/Portuguese SuperTmatik championship;<br>- in school sports;<br>- in the TEIP project “The Inclusive School as a Pillar of Full Citizenship”;<br>I was a federated player for 8 years at Lomba S. C. Amarante, being captain of the team for 3 years.<br>I am a dynamic citizen, committed and receptive to my duties.<br>Currently, I am working on my master’s thesis, with the topic of creating A Secure and Scalable Data Architecture for the Integration of Heterogeneous Urban Data in Smart Cities<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jo%C3%A3o-pedro-moreira-costa-26bba62a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jpmoreiracosta10@gmail.com) 
