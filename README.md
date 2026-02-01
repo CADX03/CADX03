@@ -2,7 +2,7 @@
 I am João Costa, 22 years old, and live in Amarante.<br>Throughout my life, I have tried to participate in various activities that allowed me to develop my skills, critical spirit, cooperation, and mutual assistance. In this way, I participated:<br>- in several mental calculation SuperTmatik championships at the national level;<br>- in the English/Portuguese SuperTmatik championship;<br>- in school sports;<br>- in the TEIP project “The Inclusive School as a Pillar of Full Citizenship”;<br>I was a federated player for 8 years at Lomba S. C. Amarante, being captain of the team for 3 years.<br>I am a dynamic citizen, committed and receptive to my duties.<br>Currently, I am working on my master’s thesis, with the topic of creating A Secure and Scalable Data Architecture for the Integration of Heterogeneous Urban Data in Smart Cities<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jo%C3%A3o-pedro-moreira-costa-26bba62a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jpmoreiracosta10@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jo%C3%A3o-pedro-moreira-costa-26bba62a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jpmoreiracosta10@gmail.com) [![CV](https://img.shields.io/badge/CV(pdf)-C42F2F?logo=google-chrome&logoColor=white)](https://drive.google.com/file/d/1IBae9yyzHlBjEhhN_WVqMPVNfWt_MxXv/view?usp=sharing)
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=CADX03)
 
@@ -15,9 +15,12 @@ I am João Costa, 22 years old, and live in Amarante.<br>Throughout my life, I h
 ![](https://nirzak-streak-stats.vercel.app/?user=CADX03&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CADX03&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://visitcount.itsvg.in/api?id=CADX03&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CADX03&limit=5&theme=dark&combine_all_yearly_contributions=true)
